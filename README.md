@@ -39,5 +39,7 @@ SkyCast is a sleek and modern weather forecasting application that provides real
    git clone https://github.com/your-username/skycast.git
    cd skycast
 🙋‍♂️ Author
+
 Made by Soumya Sourav Kuanr
+
 📧 soumyasourav03@gmail.com
